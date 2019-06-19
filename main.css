@@ -29,16 +29,17 @@
 }
 
 #services-title {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   padding: 30px;
 }
 
 #services .card {
   width: 20rem;
+  margin-bottom: 2rem;
 }
 
 #services .card-body {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   text-align: center;
 }
 
@@ -53,4 +54,39 @@
 
 #services .card-body a:hover {
   color: #000;
+}
+
+#footer {
+  background-color: #73767a;
+  color: #fff;
+  padding: 1rem;
+}
+
+#footer hr {
+  background-color: #fff;
+}
+
+#footer .second p {
+  font-size: .8rem;
+}
+
+#footer .icon {
+  fill: #fff;
+}
+
+#footer .footer-text p {
+  font-size: 1.2rem;
+}
+
+#footer .footer-text p {
+  font-size: 1.2rem;
+}
+
+#footer .footer-title {
+  font-weight: bold;
+}
+
+#footer .time-table p {
+  display: flex;
+  justify-content: space-between;
 }
